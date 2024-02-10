@@ -10,6 +10,7 @@ This project aims to develop a Staff Management System using Spring Boot and Hib
 
 - Spring Boot
 - REST APIs
+- Postman
 - Hibernate
 - MySQL
 - Java
